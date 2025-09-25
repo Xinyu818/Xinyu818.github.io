@@ -21,8 +21,9 @@ Xinyu Chen is currently a graduate student with research interests in branding, 
 
 Thanks for visiting!
 
-<img src="https://user-images.githubusercontent.com/543384/178952701-6e595809-3059-41d4-9d88-356a9b339445.png" align = "middle" width = "800px">
-
+<div align="center">
+  <img src="/assets/img/my photo" width="200px" style="border-radius: 50%;" alt="Xinyu Chen">
+</div>
 
 <br>
 
