@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 Hi, I’m Xinyu Chen! 👋  
 Welcome to my personal website for the Computational Communication course.
 
-- 🎓 I’m currently studying Computational Communication.
+Xinyu Chen is currently a graduate student with research interests in branding, international communication, and digital media. Her work now focuses on how Chinese brands build global influence through strategies such as cultural adaptation, social media storytelling, and quantitative analysis of consumer perception. She is particularly interested in exploring how brand “disguising” strategies and user-generated content shape cross-cultural engagement. Her recent projects examine Chinese brand international communication and the role of emerging technologies in marketing.
 
 Thanks for visiting!
 
