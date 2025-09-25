@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 profile:
   align: right
-  image: avatar.jpeg
+  image: 2021.5
   image_circular: true # crops the image to make it circular
   address: 
 news: true  # includes a list of news items
@@ -18,8 +18,6 @@ Hi, I’m Xinyu Chen! 👋
 Welcome to my personal website for the Computational Communication course.
 
 - 🎓 I’m currently studying Computational Communication.
-- 🐶 I have a lovely dog named Bagel (贝果).
-- 🌱 I’m interested in ...
 
 Thanks for visiting!
 
