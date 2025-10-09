@@ -26,9 +26,9 @@ nav_order: 1
 
 ---
 
-### Cyberbullying on Social Media: A Multimedia Research Project
+### 👻 Cyberbullying on Social Media: A Multimedia Research Project
 **Duration**: December 2023  
-**Role**: Project Lead
+**Type**: Research Project
 
 **Project Overview**:
 - Completed comprehensive research on cyberbullying issues on Xiaohongshu (Little Red Book), a popular Chinese social media platform
@@ -50,7 +50,7 @@ nav_order: 1
 **Role**: Project Leader  
 **Location**: Pennsylvania State University, USA
 
-**Project Objective**: Increase student customer base and enhance brand awareness among Penn State students
+**Project Objective**: Increase student customer base and enhance brand awareness among Penn State international students
 
 **Key Responsibilities**:
 - Developed and executed comprehensive strategic plans to achieve customer acquisition goals
