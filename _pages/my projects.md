@@ -66,7 +66,7 @@ nav_order: 1
 
 **Skills**: Digital marketing, social media management, event planning, brand promotion, team leadership
 
-**📄 Resources**: [Campaign Strategy Report (PDF)](/assets/pdf/Spring Creek Picnics Final Report_6__副本.pdf){:target="_blank"}
+**📄 Resources**: [Campaign Strategy Report (PDF)](/assets/pdf/Spring Creek Picnics Final Report _6__副本.pdf){:target="_blank"}
 
 ---
 
