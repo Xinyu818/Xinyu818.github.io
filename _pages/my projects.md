@@ -24,6 +24,8 @@ nav_order: 1
 
 **Skills**: Qualitative research, media analysis, historical research
 
+**📄 Resources**: [Research Paper (PDF)](/assets/pdf/Xinyu Chen MSTU 4016.pdf){:target="_blank"}
+
 ---
 
 ### 👻 Cyberbullying on Social Media: A Multimedia Research Project
@@ -63,6 +65,8 @@ nav_order: 1
 - Enhanced student engagement and brand loyalty
 
 **Skills**: Digital marketing, social media management, event planning, brand promotion, team leadership
+
+**📄 Resources**: [Campaign Strategy Report (PDF)](/assets/pdf/Spring Creek Picnics Final Report_6__副本.pdf){:target="_blank"}
 
 ---
 
