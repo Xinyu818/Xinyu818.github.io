@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/
+permalink: /my projects/
 title: Projects
 description: Research projects and practical experiences
 nav: true
